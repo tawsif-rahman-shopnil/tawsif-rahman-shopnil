@@ -1,5 +1,3 @@
-![👋This is Tawsif Rahman Shopnil](https://tawsifrahmanshopnil.com/assets/images/github-header-image.png)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
