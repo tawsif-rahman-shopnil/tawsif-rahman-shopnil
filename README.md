@@ -6,34 +6,13 @@ Full Stack Developer
 
 I'm a full-stack Software Developer with a strong focus on Flutter for mobile application development. My expertise in Backend Development and Database Design, coupled with my recent proficiency in Flutter, allows me to create functional and modern designs for mobile applications. I hold SQL skill certifications from Hackerrank. In the realm of web development, my proficiency extends to React, Tailwind, and PHP Laravel.
 
-*   🌍  I'm based in Dhaka, Bangladesh  
-*   🖥️  See my portfolio at [My Web Portfolio](http://tawsifrahmanshopnil.com/)  
-*   ✉️  You can contact me at [tawsif.rahman.shopnil@gmail.com](mailto:tawsif.rahman.shopnil@gmail.com)  
+*   🌍  I'm based in Dhaka, Bangladesh
+*   🖥️  See my portfolio at [My Web Portfolio](http://tawsifrahmanshopnil.com/)
+*   ✉️  You can contact me at [tawsif.rahman.shopnil@gmail.com](mailto:tawsif.rahman.shopnil@gmail.com)
 
-**<h3 align="left">Programming Languages and Frameworks: </h3>**
+   **<h3 align="left">Programming Languages and Frameworks: </h3>**
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" style="margin-right: 12px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" style="margin-right: 12px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="32" alt="Laravel" style="margin-right: 12px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" style="margin-right: 12px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" style="margin-right: 12px">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="JavaScript" style="margin-right: 12px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="32" alt="Flask" style="margin-right: 12px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" style="margin-right: 12px">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" style="margin-right: 12px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" style="margin-right: 12px">
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" style="margin-right: 12px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="32" alt="Laravel" style="margin-right: 12px">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="JavaScript" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="32" alt="Flask" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" style="margin-right: 12px">
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TawsifRahmanShopnil&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TawsifRahmanShopnil&theme=radical" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TawsifRahmanShopnil&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=tawsif-rahman-shopnil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="tawsif-rahman-shopnil's GitHub Stats" />
