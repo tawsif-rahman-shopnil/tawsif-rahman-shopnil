@@ -10,8 +10,80 @@ I'm a full-stack Software Developer with a strong focus on Flutter for mobile ap
 *   🖥️  See my portfolio at [My Web Portfolio](http://tawsifrahmanshopnil.com/)
 *   ✉️  You can contact me at [tawsif.rahman.shopnil@gmail.com](mailto:tawsif.rahman.shopnil@gmail.com)
 
-   **<h3 align="left">Programming Languages and Frameworks: </h3>**
+### <h3 align="left">Programming Languages and Frameworks:</h3>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" style="margin-right: 12px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="32" alt="Laravel" style="margin-right: 12px">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" alt="JavaScript" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" height="32" alt="Flask" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" style="margin-right: 12px"> <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="Tailwind CSS" style="margin-right: 12px"> </br>
+
+  <!-- Flutter -->
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" style="margin-right: 12px"/>
+  </picture>
+
+  <!-- PHP -->
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" style="margin-right: 12px"/>
+  </picture>
+
+  <!-- Laravel -->
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" style="margin-right: 12px"/>
+  </picture>
+
+  <!-- MySQL -->
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="margin-right: 12px"/>
+  </picture>
+
+  <!-- MongoDB -->
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="margin-right: 12px"/>
+  </picture>
+
+  <!-- JavaScript -->
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/javascript/F7DF1E" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/javascript/ffffff" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="margin-right: 12px"/>
+  </picture>
+
+  <!-- Flask -->
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" style="margin-right: 12px"/>
+  </picture>
+
+  <!-- Java -->
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="margin-right: 12px"/>
+  </picture>
+
+  <!-- Python -->
+  <picture>
+    <source srcset="https://cdn.simpleicons.org/python/3776AB" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/python/ffffff" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" style="margin-right: 12px"/>
+  </picture>
+
+  <!-- Tailwind -->
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" style="margin-right: 12px"/>
+  </picture>
+
+</p>
+
 
