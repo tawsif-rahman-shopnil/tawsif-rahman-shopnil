@@ -10,7 +10,7 @@ I'm a full-stack Software Developer with a strong focus on Flutter for mobile ap
 *   🖥️  See my portfolio at [My Web Portfolio](http://tawsifrahmanshopnil.com/)
 *   ✉️  You can contact me at [tawsif.rahman.shopnil@gmail.com](mailto:tawsif.rahman.shopnil@gmail.com)
 
-### <h3 align="left">Programming Languages and Frameworks:</h3>
+### <h3 align="left">Programming Languages, Frameworks & Tools:</h3>
 
 <p align="left">
 
@@ -56,11 +56,11 @@ I'm a full-stack Software Developer with a strong focus on Flutter for mobile ap
     <img height="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="margin-right: 12px"/>
   </picture>
 
-  <!-- Flask -->
+  <!-- Python -->
   <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" style="margin-right: 12px"/>
+    <source srcset="https://cdn.simpleicons.org/python/3776AB" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.simpleicons.org/python/ffffff" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" style="margin-right: 12px"/>
   </picture>
 
   <!-- Java -->
@@ -70,14 +70,28 @@ I'm a full-stack Software Developer with a strong focus on Flutter for mobile ap
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="margin-right: 12px"/>
   </picture>
 
-  <!-- Python -->
+  <!-- Django -->
   <picture>
-    <source srcset="https://cdn.simpleicons.org/python/3776AB" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.simpleicons.org/python/ffffff" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" style="margin-right: 12px"/>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" style="margin-right: 12px"/>
   </picture>
 
-  <!-- Tailwind -->
+  <!-- Flask -->
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" style="margin-right: 12px"/>
+  </picture>
+
+  <!-- FastAPI -->
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="margin-right: 12px"/>
+  </picture>
+
+  <!-- Tailwind CSS -->
   <picture>
     <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" media="(prefers-color-scheme: light)">
     <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" media="(prefers-color-scheme: dark)">
@@ -85,5 +99,6 @@ I'm a full-stack Software Developer with a strong focus on Flutter for mobile ap
   </picture>
 
 </p>
+
 
 
