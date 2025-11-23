@@ -62,12 +62,21 @@ I'm a full-stack Software Developer with a strong focus on Flutter for mobile ap
     <source srcset="https://cdn.simpleicons.org/python/ffffff" media="(prefers-color-scheme: dark)">
     <img height="32" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" style="margin-right: 12px"/>
   </picture>
+<!-- Flask -->
+<picture>
+  <!-- Light mode (black icon) -->
+  <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" media="(prefers-color-scheme: light)">
+  <!-- Dark mode (white icon) -->
+  <source srcset="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Flask.svg" media="(prefers-color-scheme: dark)">
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" style="margin-right: 12px"/>
+</picture>
 
-  <!-- Java -->
+
+  <!-- FastAPI -->
   <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" style="margin-right: 12px"/>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" media="(prefers-color-scheme: dark)">
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="margin-right: 12px"/>
   </picture>
 
   <!-- Django -->
@@ -77,12 +86,15 @@ I'm a full-stack Software Developer with a strong focus on Flutter for mobile ap
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" style="margin-right: 12px"/>
   </picture>
 
-  <!-- Flask -->
-  <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" style="margin-right: 12px"/>
-  </picture>
+<!-- Flask -->
+<picture>
+  <!-- Light mode (black icon) -->
+  <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" media="(prefers-color-scheme: light)">
+  <!-- Dark mode (white icon) -->
+  <source srcset="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Flask.svg" media="(prefers-color-scheme: dark)">
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" style="margin-right: 12px"/>
+</picture>
+
 
   <!-- FastAPI -->
   <picture>
