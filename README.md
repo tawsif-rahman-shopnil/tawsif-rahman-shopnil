@@ -1,16 +1,16 @@
 # Hi 👋, I'm Tawsif Rahman Shopnil
 
-<h3 align="center">Full Stack Software Engineer | Flutter Developer | AI Integration Enthusiast</h3>
+<h3 align="center">Full Stack Software Engineer | Flutter Specialist | AI-Powered Product Builder</h3>
 
 <p align="center">
   <a href="https://tawsifrahmanshopnil.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:tawsif.rahman.shopnil@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/iamtawsif">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -18,18 +18,22 @@
 
 ## 🚀 About Me
 
-I'm a Full Stack Software Engineer with 2+ years of professional experience building mobile applications, enterprise software, web platforms, and backend systems.
+I'm a Full Stack Software Engineer with 2+ years of professional experience building scalable mobile applications, enterprise software, web platforms, and backend systems.
 
-My expertise spans Flutter, React, Laravel, Node.js, FastAPI, and modern cloud technologies. I have worked on products used by organizations including United Group, Gazi Group, First Capital Securities, and multiple restaurant chains throughout Bangladesh.
+My primary expertise is in Flutter, React, Laravel, Node.js, and FastAPI. I've worked on enterprise-grade solutions for United Group, Gazi Group, First Capital Securities, and multiple restaurant chains across Bangladesh.
 
-I enjoy building scalable software, integrating AI into real-world products, and delivering complete solutions from architecture and development to deployment and maintenance.
+I enjoy building products from idea to production, integrating AI into real-world applications, and solving complex business problems through software.
 
-* 🌍 Based in Dhaka, Bangladesh
-* 📱 Flutter Specialist
-* 💻 Full Stack Engineer
-* 🤖 Building AI-powered applications using OpenAI & Gemini APIs
-* ☁️ AWS, Docker & CI/CD Experience
-* 🚀 Published Apps on Google Play Store & Apple App Store
+---
+
+## 🏆 Highlights
+
+* 🚀 Delivered 10+ Production Applications
+* 📱 Published Apps on Google Play Store & Apple App Store
+* 🤖 Built AI-Powered Applications using Gemini & OpenAI APIs
+* 🏢 Delivered Enterprise Solutions for United Group, Gazi Group & First Capital Securities
+* 🍽️ Built Restaurant Ordering, Healthcare, Fintech, POS & Marketplace Platforms
+* ☁️ Experience with AWS, Docker & CI/CD Pipelines
 
 ---
 
@@ -50,7 +54,7 @@ I enjoy building scalable software, integrating AI into real-world products, and
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python,fastapi,django,flask" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python,django,flask,fastapi" />
 </p>
 
 ### Databases
@@ -65,18 +69,20 @@ I enjoy building scalable software, integrating AI into real-world products, and
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,firebase,supabase" />
 </p>
 
-### AI & Development Tools
+### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman" />
 </p>
 
-* OpenAI API
-* Gemini API
-* Claude
-* GitHub Copilot
-* MCP Clients
-* REST API Development
+### AI & Developer Tools
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot" />
+</p>
 
 ---
 
@@ -84,39 +90,39 @@ I enjoy building scalable software, integrating AI into real-world products, and
 
 ## Jr. Software Engineer
 
-### Orange Solutions Ltd. | Mar 2024 - Present
+### Orange Solutions Ltd. | Mar 2024 – Present
 
-Working on enterprise-scale software solutions, mobile applications, backend systems, and cloud infrastructure.
+Working on enterprise-scale software solutions, mobile applications, backend systems, cloud deployments, and AI-powered products.
 
 ### 🍽️ UniDash – Multi-Vendor Restaurant Ordering Ecosystem
 
 A complete restaurant management ecosystem consisting of:
 
-* Customer Mobile App
-* Rider Delivery App
+* Customer Mobile Application
+* Rider Delivery Application
 * Restaurant Admin Panel
 * KIOSK Self Ordering System
 * Real-Time Kitchen Display System
-* Backend APIs
+* Laravel Backend APIs
 * Menu Synchronization Services
 
-### My Contributions
+#### My Contributions
 
-✅ Solely developed the Rider Delivery App (Flutter)
+✅ Solely developed the Rider Delivery Application using Flutter
 
-✅ Solely developed the Real-Time Order Display System
+✅ Solely developed the Real-Time Order Display System used in kitchens and restaurants
 
-✅ Solely developed the React Admin Panel
+✅ Solely developed the React-based Administration Panel
 
-✅ Solely developed the Node.js Menu Sync Microservice
+✅ Solely developed the Node.js Menu Synchronization Microservice
 
-✅ Collaborated on Customer Mobile Application
+✅ Collaborated on the Customer Mobile Application
 
-✅ Collaborated on Laravel Backend APIs
+✅ Collaborated on the Laravel Backend APIs
 
-✅ Collaborated on KIOSK Self Ordering Application
+✅ Collaborated on the Flutter KIOSK Self Ordering Application
 
-### Live KIOSK Deployments
+#### Live KIOSK Deployments
 
 📍 Station by Chef's Table – Uttara
 
@@ -124,23 +130,24 @@ A complete restaurant management ecosystem consisting of:
 
 📍 Station by Chef's Table – Sylhet
 
-The KIOSK solution allows customers to browse menus, customize orders, and complete purchases without waiting for cashier assistance.
+The KIOSK system allows customers to browse menus, customize orders, and complete purchases independently, significantly reducing queue times and improving operational efficiency.
 
 ---
 
 ### 🏘️ Amar Mahallah
 
-Hyperlocal marketplace platform connecting nearby vendors and customers.
+Hyperlocal marketplace platform connecting nearby vendors with customers.
 
 #### My Contributions
 
+* Mobile Application Development
 * Shared API Development
-* Mobile App Development
-* Vendor Management Workflows
-* Order Processing Systems
+* Vendor Management Systems
+* Order Processing Workflows
 * Proximity-Based Vendor Discovery
+* Customer & Merchant Features
 
-#### Live Applications
+#### Live Apps
 
 📱 Google Play Store
 
@@ -154,7 +161,7 @@ https://apps.apple.com/us/app/amar-mahallah/id6737305293
 
 ### 🏢 United Enterprise Bill Tracking System
 
-Enterprise procurement management platform developed for United Group.
+Procurement and supply-chain management platform developed for United Group.
 
 #### My Contributions
 
@@ -162,15 +169,15 @@ Enterprise procurement management platform developed for United Group.
 * Laravel Backend Development
 * React Frontend Development
 * Purchase Order Management
-* GRN Tracking
-* SRN Tracking
-* Reporting Dashboards
+* Goods Received Note (GRN) Tracking
+* Stock Return Note (SRN) Tracking
+* Reporting & Analytics Dashboards
 
 ---
 
 ### 📊 My Gazi
 
-Sales force and workforce management platform developed for Gazi Group.
+Sales and workforce management platform for Gazi Group.
 
 #### Features
 
@@ -179,22 +186,24 @@ Sales force and workforce management platform developed for Gazi Group.
 * Payroll Management
 * Attendance Monitoring
 * Leave Management
+* Workforce Analytics
 
 ---
 
 ### 🏥 eJOTNO
 
-Healthcare platform connecting users with doctors and caregivers.
+Healthcare platform connecting patients with doctors and caregivers.
 
 #### My Contributions
 
-* Complete Flutter Development
+* Complete Flutter Application Development
 * API Integration
+* Authentication & Authorization
 * Role-Based Workflows
-* Authentication Systems
 * Appointment Management
+* User Experience Implementation
 
-#### Live Application
+#### Live App
 
 🍎 Apple App Store
 
@@ -204,7 +213,7 @@ https://apps.apple.com/us/app/ejotno/id6741751239
 
 ## Software Engineering Intern
 
-### Orange Solutions Ltd. | Jan 2024 - Mar 2024
+### Orange Solutions Ltd. | Jan 2024 – Mar 2024
 
 ### 🏟️ Courtside Bangladesh
 
@@ -212,25 +221,25 @@ Sports, Dining & Entertainment Platform under United Group.
 
 #### My Contributions
 
-* Complete Laravel + React Admin Panel
-* Role-Based Access Control (RBAC)
-* Venue Management
-* Event Management
-* Booking Management
-* Ticketing Administration
-* Flutter App Contributions
-* POS System Contributions
+* Built the complete Laravel + React Administration Panel
+* Implemented Role-Based Access Control (RBAC)
+* Venue Management System
+* Event Management System
+* Booking Management System
+* Ticketing Administration Features
+* Contributed to Flutter Customer App
+* Contributed to Flutter Cashier POS Application
 
 ---
 
 ## Software Engineer (Contract)
 
-### Swinroll Network Technologies Co., Ltd. | Jul 2023 - Jan 2024
+### Swinroll Network Technologies Co., Ltd. | Jul 2023 – Jan 2024
 
-### Responsibilities
+#### Responsibilities
 
-* Flutter Development
-* Android Application Publishing
+* Flutter Mobile Development
+* Android App Publishing
 * Laravel API Development
 * React Dashboard Development
 * Firebase Integration
@@ -240,29 +249,30 @@ Sports, Dining & Entertainment Platform under United Group.
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Products & Projects
 
 ## 💰 Pocket Hishab
 
-### AI-Powered Personal Finance App
+### AI-Powered Personal Finance Application
 
-Built and published independently.
+Pocket Hishab helps users understand spending behavior through AI-generated financial insights and analytics.
 
-### Features
+#### Features
 
-* AI Spending Analysis
+* Gemini AI Spending Analysis
+* Expense & Income Tracking
 * Financial Insights
-* Budget Tracking
+* Budget Planning
 * Savings Score System
-* Biometric Authentication
 * Achievement & Badge System
-* Expense Analytics
+* Biometric Authentication
+* Modern Cross-Platform Experience
 
-### Tech Stack
+#### Tech Stack
 
 Flutter • Supabase • Gemini AI
 
-### Live Applications
+#### Live Apps
 
 📱 Google Play Store
 
@@ -278,18 +288,19 @@ https://apps.apple.com/us/app/pocket-hishab/id6759366572
 
 ### AI-Powered Habit Tracker
 
-Built independently from concept to production.
+Built independently from concept, design, development, deployment, and publishing.
 
-### Features
+#### Features
 
 * AI Habit Recommendations
-* Streak Tracking
+* Smart Habit Tracking
+* Streak Monitoring
 * Completion Analytics
-* Offline First Synchronization
+* Offline-First Synchronization
 * Subscription Management
 * Secure Data Storage
 
-### Tech Stack
+#### Tech Stack
 
 Flutter • Supabase • AI
 
@@ -301,21 +312,21 @@ Flutter • Supabase • AI
 
 Developed for First Capital Securities Ltd.
 
-### Features
+#### Features
 
 * Real-Time Market Data
-* Buy/Sell Orders
-* Portfolio Management
+* Portfolio Tracking
+* Buy & Sell Order Placement
 * Trading Dashboard
 * Secure Financial Transactions
 
-Currently used by multiple BSEC-registered securities firms.
+Currently adopted by multiple BSEC-registered securities firms.
 
 ---
 
 ## 🛒 Orange MPOS Cloud & Orange MPOS
 
-### Retail POS Ecosystem
+### Retail & Restaurant POS Ecosystem
 
 #### Tech Stack
 
@@ -329,27 +340,29 @@ React • FastAPI • Flutter • MySQL
 * POS Operations
 * Multi-Device Synchronization
 * Sunmi Device Support
+* Real-Time Reporting
 
 ---
 
-# 🏆 Certifications
+# 🏅 Certifications
 
-* 🥇 HackerRank SQL (Advanced)
-* 🥈 HackerRank SQL (Intermediate)
-* 🥉 HackerRank SQL (Basic)
-* 🐍 HackerRank Python (Basic)
-* 🎨 Google UX Design Foundations (Coursera)
+* HackerRank SQL (Advanced)
+* HackerRank SQL (Intermediate)
+* HackerRank SQL (Basic)
+* HackerRank Python (Basic)
+* Foundations of User Experience (UX) Design – Coursera
 
 ---
 
 # 🎓 Education
 
-### B.Sc. in Computer Science & Engineering
+### Bachelor of Science in Computer Science & Engineering (CSE)
 
 Bangladesh Army International University of Science and Technology (BAIUST)
 
 2024
 
+---
 
 ## 🤝 Let's Connect
 
@@ -369,4 +382,4 @@ Bangladesh Army International University of Science and Technology (BAIUST)
 
 ---
 
-### 💡 Building scalable products through Flutter, Full-Stack Engineering, Cloud Infrastructure, and AI Integration.
+### 💡 Building scalable products through Flutter, Full Stack Engineering, Cloud Infrastructure, and AI Integration.
