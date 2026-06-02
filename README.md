@@ -350,20 +350,6 @@ Bangladesh Army International University of Science and Technology (BAIUST)
 
 2024
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tawsif-rahman-shopnil&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawsif-rahman-shopnil&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawsif-rahman-shopnil&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
