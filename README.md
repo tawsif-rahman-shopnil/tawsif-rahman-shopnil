@@ -1,96 +1,386 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </br> My name is Tawsif Rahman Shopnil
-=============================================================================================================================================
+# Hi 👋, I'm Tawsif Rahman Shopnil
 
-Full Stack Developer
---------------------
+<h3 align="center">Full Stack Software Engineer | Flutter Developer | AI Integration Enthusiast</h3>
 
-I'm a full-stack Software Developer with a strong focus on Flutter for mobile application development. My expertise in Backend Development and Database Design, coupled with my recent proficiency in Flutter, allows me to create functional and modern designs for mobile applications. I hold SQL skill certifications from Hackerrank. In the realm of web development, my proficiency extends to React, Tailwind, and PHP Laravel.
-
-*   🌍  I'm based in Dhaka, Bangladesh
-*   🖥️  See my portfolio at [My Web Portfolio](http://tawsifrahmanshopnil.com/)
-*   ✉️  You can contact me at [tawsif.rahman.shopnil@gmail.com](mailto:tawsif.rahman.shopnil@gmail.com)
-
-### <h3 align="left">Programming Languages, Frameworks & Tools:</h3>
-
-<p align="left">
-  <!-- Flutter -->
-  <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" style="margin-right: 12px"/>
-  </picture>
-
-  <!-- PHP -->
-  <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" style="margin-right: 12px"/>
-  </picture>
-
-  <!-- Laravel -->
-  <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" style="margin-right: 12px"/>
-  </picture>
-
-  <!-- MySQL -->
-  <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="margin-right: 12px"/>
-  </picture>
-
-  <!-- MongoDB -->
-  <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="margin-right: 12px"/>
-  </picture>
-
-  <!-- JavaScript -->
-  <picture>
-    <source srcset="https://cdn.simpleicons.org/javascript/F7DF1E" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.simpleicons.org/javascript/ffffff" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="margin-right: 12px"/>
-  </picture>
-
-  <!-- Python -->
-  <picture>
-    <source srcset="https://cdn.simpleicons.org/python/3776AB" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.simpleicons.org/python/ffffff" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" style="margin-right: 12px"/>
-  </picture>
-
-  <!-- Django -->
-  <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" style="margin-right: 12px"/>
-  </picture>
-
-  <!-- Flask -->
-  <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Flask.svg" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" style="margin-right: 12px"/>
-  </picture>
-
-  <!-- FastAPI -->
-  <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" style="margin-right: 12px"/>
-  </picture>
-
-  <!-- Tailwind CSS -->
-  <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" media="(prefers-color-scheme: dark)">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" style="margin-right: 12px"/>
-  </picture>
+<p align="center">
+  <a href="https://tawsifrahmanshopnil.com">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:tawsif.rahman.shopnil@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-Contact_Me-red?style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/iamtawsif">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
+---
 
+## 🚀 About Me
 
+I'm a Full Stack Software Engineer with 2+ years of professional experience building mobile applications, enterprise software, web platforms, and backend systems.
 
+My expertise spans Flutter, React, Laravel, Node.js, FastAPI, and modern cloud technologies. I have worked on products used by organizations including United Group, Gazi Group, First Capital Securities, and multiple restaurant chains throughout Bangladesh.
+
+I enjoy building scalable software, integrating AI into real-world products, and delivering complete solutions from architecture and development to deployment and maintenance.
+
+* 🌍 Based in Dhaka, Bangladesh
+* 📱 Flutter Specialist
+* 💻 Full Stack Engineer
+* 🤖 Building AI-powered applications using OpenAI & Gemini APIs
+* ☁️ AWS, Docker & CI/CD Experience
+* 🚀 Published Apps on Google Play Store & Apple App Store
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python,fastapi,django,flask" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,firebase,supabase" />
+</p>
+
+### AI & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman" />
+</p>
+
+* OpenAI API
+* Gemini API
+* Claude
+* GitHub Copilot
+* MCP Clients
+* REST API Development
+
+---
+
+# 💼 Professional Experience
+
+## Jr. Software Engineer
+
+### Orange Solutions Ltd. | Mar 2024 - Present
+
+Working on enterprise-scale software solutions, mobile applications, backend systems, and cloud infrastructure.
+
+### 🍽️ UniDash – Multi-Vendor Restaurant Ordering Ecosystem
+
+A complete restaurant management ecosystem consisting of:
+
+* Customer Mobile App
+* Rider Delivery App
+* Restaurant Admin Panel
+* KIOSK Self Ordering System
+* Real-Time Kitchen Display System
+* Backend APIs
+* Menu Synchronization Services
+
+### My Contributions
+
+✅ Solely developed the Rider Delivery App (Flutter)
+
+✅ Solely developed the Real-Time Order Display System
+
+✅ Solely developed the React Admin Panel
+
+✅ Solely developed the Node.js Menu Sync Microservice
+
+✅ Collaborated on Customer Mobile Application
+
+✅ Collaborated on Laravel Backend APIs
+
+✅ Collaborated on KIOSK Self Ordering Application
+
+### Live KIOSK Deployments
+
+📍 Station by Chef's Table – Uttara
+
+📍 Station by Chef's Table – Mirpur
+
+📍 Station by Chef's Table – Sylhet
+
+The KIOSK solution allows customers to browse menus, customize orders, and complete purchases without waiting for cashier assistance.
+
+---
+
+### 🏘️ Amar Mahallah
+
+Hyperlocal marketplace platform connecting nearby vendors and customers.
+
+#### My Contributions
+
+* Shared API Development
+* Mobile App Development
+* Vendor Management Workflows
+* Order Processing Systems
+* Proximity-Based Vendor Discovery
+
+#### Live Applications
+
+📱 Google Play Store
+
+https://play.google.com/store/apps/details?id=com.amar_mahallah.amar_mahallah
+
+🍎 Apple App Store
+
+https://apps.apple.com/us/app/amar-mahallah/id6737305293
+
+---
+
+### 🏢 United Enterprise Bill Tracking System
+
+Enterprise procurement management platform developed for United Group.
+
+#### My Contributions
+
+* System Architecture Design
+* Laravel Backend Development
+* React Frontend Development
+* Purchase Order Management
+* GRN Tracking
+* SRN Tracking
+* Reporting Dashboards
+
+---
+
+### 📊 My Gazi
+
+Sales force and workforce management platform developed for Gazi Group.
+
+#### Features
+
+* Territory Sales Officer Tracking
+* Secondary Sales Reporting
+* Payroll Management
+* Attendance Monitoring
+* Leave Management
+
+---
+
+### 🏥 eJOTNO
+
+Healthcare platform connecting users with doctors and caregivers.
+
+#### My Contributions
+
+* Complete Flutter Development
+* API Integration
+* Role-Based Workflows
+* Authentication Systems
+* Appointment Management
+
+#### Live Application
+
+🍎 Apple App Store
+
+https://apps.apple.com/us/app/ejotno/id6741751239
+
+---
+
+## Software Engineering Intern
+
+### Orange Solutions Ltd. | Jan 2024 - Mar 2024
+
+### 🏟️ Courtside Bangladesh
+
+Sports, Dining & Entertainment Platform under United Group.
+
+#### My Contributions
+
+* Complete Laravel + React Admin Panel
+* Role-Based Access Control (RBAC)
+* Venue Management
+* Event Management
+* Booking Management
+* Ticketing Administration
+* Flutter App Contributions
+* POS System Contributions
+
+---
+
+## Software Engineer (Contract)
+
+### Swinroll Network Technologies Co., Ltd. | Jul 2023 - Jan 2024
+
+### Responsibilities
+
+* Flutter Development
+* Android Application Publishing
+* Laravel API Development
+* React Dashboard Development
+* Firebase Integration
+* Push Notification Systems
+* Docker Deployments
+* GitHub Actions CI/CD
+
+---
+
+# 🚀 Featured Projects
+
+## 💰 Pocket Hishab
+
+### AI-Powered Personal Finance App
+
+Built and published independently.
+
+### Features
+
+* AI Spending Analysis
+* Financial Insights
+* Budget Tracking
+* Savings Score System
+* Biometric Authentication
+* Achievement & Badge System
+* Expense Analytics
+
+### Tech Stack
+
+Flutter • Supabase • Gemini AI
+
+### Live Applications
+
+📱 Google Play Store
+
+https://play.google.com/store/apps/details?id=com.mtrs.pocket_hishab
+
+🍎 Apple App Store
+
+https://apps.apple.com/us/app/pocket-hishab/id6759366572
+
+---
+
+## 🌱 Serein
+
+### AI-Powered Habit Tracker
+
+Built independently from concept to production.
+
+### Features
+
+* AI Habit Recommendations
+* Streak Tracking
+* Completion Analytics
+* Offline First Synchronization
+* Subscription Management
+* Secure Data Storage
+
+### Tech Stack
+
+Flutter • Supabase • AI
+
+---
+
+## 📈 ZAB Prottoy
+
+### Securities Trading Platform
+
+Developed for First Capital Securities Ltd.
+
+### Features
+
+* Real-Time Market Data
+* Buy/Sell Orders
+* Portfolio Management
+* Trading Dashboard
+* Secure Financial Transactions
+
+Currently used by multiple BSEC-registered securities firms.
+
+---
+
+## 🛒 Orange MPOS Cloud & Orange MPOS
+
+### Retail POS Ecosystem
+
+#### Tech Stack
+
+React • FastAPI • Flutter • MySQL
+
+#### Features
+
+* Inventory Management
+* Sales Tracking
+* Invoice Generation
+* POS Operations
+* Multi-Device Synchronization
+* Sunmi Device Support
+
+---
+
+# 🏆 Certifications
+
+* 🥇 HackerRank SQL (Advanced)
+* 🥈 HackerRank SQL (Intermediate)
+* 🥉 HackerRank SQL (Basic)
+* 🐍 HackerRank Python (Basic)
+* 🎨 Google UX Design Foundations (Coursera)
+
+---
+
+# 🎓 Education
+
+### B.Sc. in Computer Science & Engineering
+
+Bangladesh Army International University of Science and Technology (BAIUST)
+
+2024
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tawsif-rahman-shopnil&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawsif-rahman-shopnil&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawsif-rahman-shopnil&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/iamtawsif">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:tawsif.rahman.shopnil@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/tawsif-rahman-shopnil">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+### 💡 Building scalable products through Flutter, Full-Stack Engineering, Cloud Infrastructure, and AI Integration.
