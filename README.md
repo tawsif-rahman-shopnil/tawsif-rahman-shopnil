@@ -1,16 +1,22 @@
-# Hi 👋, I'm Tawsif Rahman Shopnil
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm Tawsif Rahman Shopnil
+</h1>
 
 <h3 align="center">Full Stack Software Engineer | Flutter Specialist | AI-Powered Product Builder</h3>
 
+<br/>
+
 <p align="center">
-  <a href="https://tawsifrahmanshopnil.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://tawsifrahmanshopnil.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="mailto:tawsif.rahman.shopnil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="mailto:tawsif.rahman.shopnil@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20Email-Contact%20Me-EA4335?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/iamtawsif">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <a href="https://linkedin.com/in/iamtawsif" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
@@ -28,14 +34,12 @@ I enjoy building products from idea to production, integrating AI into real-worl
 
 ## 🏆 Highlights
 
-| | |
-|---|---|
-| 🚀 | Delivered **10+ Production Applications** |
-| 📱 | Published Apps on **Google Play Store & Apple App Store** |
-| 🤖 | Built **AI-Powered Applications** using Gemini & OpenAI APIs |
-| 🏢 | Delivered **Enterprise Solutions** for United Group, Gazi Group & First Capital Securities |
-| 🍽️ | Built Restaurant Ordering, Healthcare, Fintech, POS & Marketplace Platforms |
-| ☁️ | Experience with **AWS & CI/CD Pipelines** |
+🚀 &nbsp; Delivered **10+ Production Applications**  
+📱 &nbsp; Published Apps on **Google Play Store & Apple App Store**  
+🤖 &nbsp; Built **AI-Powered Applications** using Gemini & OpenAI APIs  
+🏢 &nbsp; Delivered **Enterprise Solutions** for United Group, Gazi Group & First Capital Securities  
+🍽️ &nbsp; Built Restaurant Ordering, Healthcare, Fintech, POS & Marketplace Platforms  
+☁️ &nbsp; Experience with **AWS & CI/CD Pipelines**
 
 ---
 
