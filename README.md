@@ -307,6 +307,11 @@ Built under **United Group**.
 ![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat-square)
 
 ---
+**Live Apps**
+
+<a href="https://play.google.com/store/apps/details?id=com.mtrs.habit_ai">
+  <img src="https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
 
 ## 📈 ZAB Prottoy – Securities Trading Platform
 
@@ -321,6 +326,11 @@ Built under **United Group**.
 - 🔒 Secure Financial Transactions
 
 ---
+**Live Apps**
+
+<a href="https://play.google.com/store/apps/details?id=com.osl.bot">
+  <img src="https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
 
 ## 🛒 Orange MPOS Cloud & Orange MPOS – POS Ecosystem
 
