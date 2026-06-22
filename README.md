@@ -313,6 +313,39 @@ Built under **United Group**.
   <img src="https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
 </a>
 
+## 🧩 Decode – Understand Why
+
+> Decode helps you understand why a situation likely happened — without turning it into therapy or telling you what to do. Built for people who replay conversations, overthink decisions, or get stuck on "what did that mean?"
+
+**How It Works**
+
+1. Type what happened (work, friends, dating, family, school — any everyday situation)
+2. Optionally answer up to 2 neutral clarifying questions
+3. Get a clear breakdown across 4 sections: Most Likely Reasons (Ranked), What This Usually Means, What You Might Be Assuming Incorrectly, and Common Pattern This Matches
+
+**Features**
+
+- 🧠 AI-Generated Situational Breakdown (cautious, non-diagnostic language)
+- 📋 4-Section Structured Explanations
+- 🔄 Free & Pro Tiers (3 decodes/day free, unlimited on Pro)
+- 📝 Decode History (last 3 free, unlimited on Pro)
+- 🔗 Sanitized Summary Sharing & Copy
+- 🔐 Anonymous-by-Default Auth with Optional Email Sync
+- 📴 Offline Viewing for Saved History
+
+**Tech Stack**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat-square)
+
+---
+**Live Apps**
+
+<a href="https://play.google.com/store/apps/details?id=com.mtrs.decode">
+  <img src="https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
+
 ## 📈 ZAB Prottoy – Securities Trading Platform
 
 > Developed for **First Capital Securities Ltd.** — currently adopted by multiple BSEC-registered securities firms.
