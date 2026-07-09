@@ -26,7 +26,7 @@
 
 I'm a **Full Stack Software Engineer** with **2+ years** of professional experience building scalable mobile applications, enterprise software, web platforms, and backend systems.
 
-My primary expertise is in **Flutter, React, Laravel, Node.js, and FastAPI**. I've delivered enterprise-grade solutions for **United Group, Gazi Group, First Capital Securities**, and multiple restaurant chains across Bangladesh.
+My primary expertise is in **Flutter, React, Laravel, Node.js, and FastAPI**. I've delivered enterprise-grade solutions for **United Group, Gazi Group, First Capital Securities**, restaurant chains, and travel platforms across Bangladesh — and independently designed, built, and published **three AI-powered apps** to Google Play and the Apple App Store.
 
 I enjoy building products from idea to production, integrating AI into real-world applications, and solving complex business problems through software.
 
@@ -35,10 +35,10 @@ I enjoy building products from idea to production, integrating AI into real-worl
 ## 🏆 Highlights
 
 🚀 &nbsp; Delivered **10+ Production Applications**  
-📱 &nbsp; Published Apps on **Google Play Store & Apple App Store**  
-🤖 &nbsp; Built **AI-Powered Applications** using Gemini & OpenAI APIs  
+📱 &nbsp; **8+ Apps Live** on Google Play Store & Apple App Store  
+🤖 &nbsp; Independently Built & Published **3 AI-Powered Apps** (Gemini & OpenAI APIs)  
 🏢 &nbsp; Delivered **Enterprise Solutions** for United Group, Gazi Group & First Capital Securities  
-🍽️ &nbsp; Built Restaurant Ordering, Healthcare, Fintech, POS & Marketplace Platforms  
+🍽️ &nbsp; Built Restaurant Ordering, Healthcare, Fintech, Travel, POS & Marketplace Platforms  
 ☁️ &nbsp; Experience with **AWS & CI/CD Pipelines**
 
 ---
@@ -87,8 +87,8 @@ I enjoy building products from idea to production, integrating AI into real-worl
 
 # 💼 Professional Experience
 
-## 🟠 Jr. Software Engineer
-### Orange Solutions Ltd. &nbsp;|&nbsp; Mar 2024 – Present
+## 🟠 Junior Software Engineer
+### Orange Solutions Limited (OSL), United Group &nbsp;|&nbsp; Dhaka, Bangladesh &nbsp;|&nbsp; Mar 2024 – Present
 
 Working on enterprise-scale software solutions, mobile applications, backend systems, cloud deployments, and AI-powered products.
 
@@ -127,7 +127,7 @@ A complete restaurant management ecosystem consisting of:
 **Live App**
 
 <a href="https://play.google.com/store/apps/details?id=com.unidash360byOSL.unidash_app">
-  <img src="https://img.shields.io/badge/Google_Play-Customer_App_(Under_Review)-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Play-Customer_App-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
 </a>
 
 ---
@@ -221,7 +221,7 @@ Healthcare platform connecting patients with doctors and caregivers.
 ---
 
 ## 🟡 Software Engineering Intern
-### Orange Solutions Ltd. &nbsp;|&nbsp; Jan 2024 – Mar 2024
+### Orange Solutions Limited (OSL), United Group &nbsp;|&nbsp; Dhaka, Bangladesh &nbsp;|&nbsp; Jan 2024 – Mar 2024
 
 ### 🏟️ Courtside Bangladesh – Sports, Dining & Entertainment Platform
 
@@ -241,7 +241,7 @@ Built under **United Group**.
 ---
 
 ## 🔵 Software Engineer (Contract)
-### Swinroll Network Technologies Co., Ltd. &nbsp;|&nbsp; Jul 2023 – Jan 2024
+### Swinroll Network Technologies Co., Ltd. &nbsp;|&nbsp; Hangzhou, China (Remote) &nbsp;|&nbsp; Jul 2023 – Jan 2024
 
 **Responsibilities**
 
@@ -306,12 +306,13 @@ Built under **United Group**.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat-square)
 
----
 **Live Apps**
 
 <a href="https://play.google.com/store/apps/details?id=com.mtrs.habit_ai">
   <img src="https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
 </a>
+
+---
 
 ## 🧩 Decode – Understand Why
 
@@ -339,12 +340,47 @@ Built under **United Group**.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat-square)
 
----
 **Live Apps**
 
 <a href="https://play.google.com/store/apps/details?id=com.mtrs.decode">
   <img src="https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
 </a>
+
+---
+
+## 🧳 WanderNest – Tour Booking Platform
+
+> Complete tour booking system built end-to-end as a client project: travelers discover and book tour packages from a Flutter app, admins manage everything from a React back office, all backed by one Node.js API.
+
+**My Contributions**
+
+- Cross-Platform Flutter Traveler App (end-to-end)
+- Phone-OTP Authentication (passwordless login via SMS)
+- Tour Package Search with Filters & Map View
+- Booking Flow & Custom Tour Requests
+- 🤖 Gemini-Powered AI Trip Planner
+- Payments (Stripe / bKash / Nagad)
+- Realtime Notifications over Socket.IO
+- React Admin Panel & Node.js + Prisma + MySQL API
+
+**Tech Stack**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Live Apps**
+
+<a href="https://play.google.com/store/apps/details?id=com.binaryans.wandernest">
+  <img src="https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
+<a href="https://apps.apple.com/us/app/wandernest/id6785061278">
+  <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />
+</a>
+
+---
 
 ## 📈 ZAB Prottoy – Securities Trading Platform
 
@@ -358,12 +394,13 @@ Built under **United Group**.
 - 📊 Trading Dashboard
 - 🔒 Secure Financial Transactions
 
----
 **Live Apps**
 
 <a href="https://play.google.com/store/apps/details?id=com.osl.bot">
   <img src="https://img.shields.io/badge/Google_Play-Download-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
 </a>
+
+---
 
 ## 🛒 Orange MPOS Cloud & Orange MPOS – POS Ecosystem
 
