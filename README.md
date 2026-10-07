@@ -122,7 +122,7 @@ A complete restaurant management ecosystem consisting of:
 
 📍 Station by Chef's Table – Uttara  
 📍 Station by Chef's Table – Mirpur  
-📍 Station by Chef's Table – Sylhet
+📍 Station by Chef's Table – Sylhet  
 📍 Station by Chef's Table – UIU
 
 > The KIOSK system allows customers to browse menus, customize orders, and complete purchases independently, significantly reducing queue times and improving operational efficiency.
@@ -474,3 +474,4 @@ Bangladesh Army International University of Science and Technology (BAIUST) — 
 <p align="center">
   <i>💡 Building scalable products through Flutter, Full Stack Engineering, Cloud Infrastructure, and AI Integration.</i>
 </p>
+update this md file 📍 Station by Chef's Table – UIU should be line below
