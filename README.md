@@ -98,6 +98,7 @@ Working on enterprise-scale software solutions, mobile applications, backend sys
 
 A complete restaurant management ecosystem consisting of:
 
+- UniDash Website
 - Customer Mobile Application
 - Rider Delivery Application
 - Restaurant Admin Panel
@@ -108,6 +109,7 @@ A complete restaurant management ecosystem consisting of:
 
 **My Contributions**
 
+✅ Developed the **UniDash Website** at [unidash360.com](https://unidash360.com/)  
 ✅ Solely developed the **Rider Delivery Application** using Flutter  
 ✅ Solely developed the **Real-Time Order Display System** used in kitchens and restaurants  
 ✅ Solely developed the **React-based Administration Panel**  
@@ -124,10 +126,18 @@ A complete restaurant management ecosystem consisting of:
 
 > The KIOSK system allows customers to browse menus, customize orders, and complete purchases independently, significantly reducing queue times and improving operational efficiency.
 
-**Live App**
+**Live Website & Apps**
 
+The customer app is published on **Google Play** and the **Apple App Store**.
+
+<a href="https://unidash360.com/">
+  <img src="https://img.shields.io/badge/Website-UniDash_360-0A66C2?style=for-the-badge&logoColor=white" alt="Visit the UniDash 360 website" />
+</a>
 <a href="https://play.google.com/store/apps/details?id=com.unidash360byOSL.unidash_app">
   <img src="https://img.shields.io/badge/Google_Play-Customer_App-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
+<a href="https://apps.apple.com/us/app/unidash-360/id6806720093">
+  <img src="https://img.shields.io/badge/App_Store-Customer_App-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Download UniDash 360 on the App Store" />
 </a>
 
 ---
